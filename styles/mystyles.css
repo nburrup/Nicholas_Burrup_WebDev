@@ -1,0 +1,28 @@
+.justify {
+    text-align: justify;
+}
+
+.background {
+    background-image:url(../images/whitebackground.jpg);
+}
+a {
+    color:blue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.center {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.norm {
+    font-weight: normal;
+}
+
+.cursive {
+    font-family: cursive;
+}

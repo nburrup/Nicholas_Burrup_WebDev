@@ -1,0 +1,62 @@
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+  }
+  .subheader {
+    float: right;
+    padding-right: 20px;
+}
+.padding {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.paddingleft {
+  padding-left: 50px;
+}
+.nav {
+  padding: 20px;
+}
+.justify {
+  text-align: justify ;
+}
+
+.background {
+  background-image: url('../images/bluebackground.jpg') ;
+}
+
+a {
+  color: rgb(224, 227, 230);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.center {
+  text-align: center;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.norm {
+  font-weight: normal;
+}
+.size {
+    width: 50%; 
+    height: 50%;
+}
+.tabfont {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 10px;
+    font-size: 15px;
+    color: #d5d6d3;
+    text-align: center;
+}
